@@ -7,7 +7,7 @@ public class CalculadoraCientifica {
 
     //3.1.2 Lista de parâmetros com um double
     public double raiz(double d1){        
-        return Math.sqrt(d1);
+        return Math.sqrt(d1); 
     }
 
     /*

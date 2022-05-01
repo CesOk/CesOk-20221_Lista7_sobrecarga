@@ -10,7 +10,7 @@ public class TesteCalculadoraCientifica {
         CalCien.raiz(1);
 
         CalCien.raiz(3.4);
-
+ 
         CalCien.raiz("6");
 
         CalCien.potencia(2, 7);

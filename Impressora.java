@@ -5,7 +5,7 @@ poderão coexistir graças ao mecanismo conhecido como sobrecarga de métodos.
 Escreva versões do método exibir que tenham as seguintes listas de parâmetros.
 */
 
-public class Impressora{
+public class Impressora{ 
     //1.1 um único float
     public void exibir(float f1){
         System.out.println(f1);

@@ -7,7 +7,7 @@ public class TesteImpressora {
     public static void main(String[] args) {
         Impressora imp = new Impressora();
 
-        imp.exibir(1);
+        imp.exibir(1); 
 
         imp.exibir(1,5);
 
